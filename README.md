@@ -3,7 +3,7 @@ It is a landing page that allows users to search for their duo (duo) in online g
 
 ## Tecnologies, Libraries and Hooks
 
-Front-end (web) 	
+### Front-end (web) 	
 - React
 - TypeScript
 - TailwindCSS
@@ -24,4 +24,5 @@ Front-end (web)
 - Express
 
 ## Demonstration
+![esports2](https://user-images.githubusercontent.com/82839108/194959907-bcfcec23-cdc7-4c2b-84d5-86de79538dde.PNG)
 ![esports1](https://user-images.githubusercontent.com/82839108/194959395-37738951-f9d8-4b06-810b-7fca455453bf.png)
