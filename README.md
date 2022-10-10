@@ -25,4 +25,5 @@ It is a landing page that allows users to search for their duo in online games a
 
 ## Demonstration
 ![esports2](https://user-images.githubusercontent.com/82839108/194959907-bcfcec23-cdc7-4c2b-84d5-86de79538dde.PNG)
-![esports1](https://user-images.githubusercontent.com/82839108/194959395-37738951-f9d8-4b06-810b-7fca455453bf.png)
+![e![esports3](https://user-images.githubusercontent.com/82839108/194960108-291e45d5-95a8-4f3e-a0b0-b990fa7e6df4.PNG)
+sports1](https://user-images.githubusercontent.com/82839108/194959395-37738951-f9d8-4b06-810b-7fca455453bf.png)
