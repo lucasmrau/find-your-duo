@@ -1,5 +1,5 @@
 # Find your Duo
-It is a landing page that allows users to search for their duo (duo) in online games and post an ad to find other players in the game they want.
+It is a landing page that allows users to search for their duo in online games and post an ad to find other players in the game they want.
 
 ## Tecnologies, Libraries and Hooks
 
